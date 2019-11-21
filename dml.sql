@@ -1,7 +1,8 @@
+INSERT INTO student(name,age,sex) values
 -- Insert record
-
+UPDATE student set column_name = ... where ...
 -- Revise record
-
+DELETE FROM student where ...
 --  Delete record
-
+select * from student where ...
 -- Search record
